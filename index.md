@@ -11,6 +11,7 @@ Software Developer | Cybersecurity
 
 [GitHub](https://github.com/k1m905)  
 [LinkedIn](https://www.linkedin.com/in/taehyun-kim-/)  
+
 ---
 
 ## About Me
@@ -26,10 +27,9 @@ and cybersecurity.
 
 ## Projects
 
----
 ### Productivity App
 
-** Java · JavaFX · JUnit · PostgreSQL · Git**
+**Java · Arduino · Firmata4J**
 
 - asdasd
 - asdasd
@@ -106,4 +106,4 @@ Expected Graduation: 2028
 
 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/taehyun-kim-/)  
 
-**Email:** [Email](taehyun1834@gmail.com)
+**Email:** taehyun1834@gmail.com
