@@ -27,10 +27,20 @@ and cybersecurity.
 ## Projects
 
 ### Productivity App
+
 ** Java, JavaFX, JUnit, PostgreSQL, Git**
+
+- asdasd
+- asdasd
+
 ---
 ### Steam Game Discount Scraper
+
 **Python, Flask, HTML**
+
+- aasdasd
+- asdasd
+
 ---
 ### Automatic Plant Watering System
 
