@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+  <meta charset="utf-8">
+
+  <meta name="viewport"
+        content="width=device-width,maximum-scale=2">
+
+  <link rel="stylesheet"
+        type="text/css"
+        media="screen"
+        href="{{ '/assets/css/style.css' | relative_url }}">
+
+  <title>{{ page.title }} | {{ site.title }}</title>
+
+</head>
+
+<body>
+
+  {% include nav.html %}
+
+  <main>
+    {{ content }}
+  </main>
+
+</body>
+
+</html>
