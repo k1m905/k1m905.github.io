@@ -26,9 +26,10 @@ and cybersecurity.
 
 ## Projects
 
+---
 ### Productivity App
 
-** Java, JavaFX, JUnit, PostgreSQL, Git**
+** Java · JavaFX · JUnit · PostgreSQL · Git**
 
 - asdasd
 - asdasd
@@ -36,7 +37,7 @@ and cybersecurity.
 ---
 ### Steam Game Discount Scraper
 
-**Python, Flask, HTML**
+**Python · Flask · HTML**
 
 - aasdasd
 - asdasd
@@ -101,8 +102,8 @@ Expected Graduation: 2028
 
 ## Contact
 
-**GitHub:** [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+**GitHub:** [GitHub](https://github.com/k1m905) 
 
-**LinkedIn:** [LinkedIn](YOUR_LINKEDIN_URL)
+**LinkedIn:** [LinkedIn](https://www.linkedin.com/in/taehyun-kim-/)  
 
-**Email:** YOUR_EMAIL
+**Email:** [Email](taehyun1834@gmail.com)
