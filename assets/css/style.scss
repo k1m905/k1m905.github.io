@@ -5,28 +5,29 @@
 
 .navigation {
   position: fixed;
-  top: 20px;
-  right: 30px;
+  top: 15px;
+  right: 0;
   z-index: 1000;
 
   display: flex;
-  gap: 0;
 }
 
 .navigation a {
-  display: inline-block;
+  display: block;
 
   padding: 12px 20px;
 
+  background: #0088ff;
   color: white;
+
   text-decoration: none;
 
-  background: #0088ff;
+  border-right: 1px solid #0077dd;
 
-  border: 1px solid #0077dd;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.25);
+  font-size: 14px;
+  font-weight: bold;
 
-  font-size: 16px;
+  box-shadow: none;
 }
 
 .navigation a:hover {
