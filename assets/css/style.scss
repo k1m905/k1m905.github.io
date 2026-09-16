@@ -6,7 +6,7 @@
 .navigation {
   position: fixed;
   top: 15px;
-  right: 0;
+  right: 20px;
   z-index: 1000;
 
   display: flex;
@@ -14,20 +14,16 @@
 
 .navigation a {
   display: block;
-
   padding: 12px 20px;
 
-  background: #0088ff;
+  background: #0090ff;
   color: white;
 
   text-decoration: none;
+  font-weight: bold;
+  font-size: 14px;
 
   border-right: 1px solid #0077dd;
-
-  font-size: 14px;
-  font-weight: bold;
-
-  box-shadow: none;
 }
 
 .navigation a:hover {
