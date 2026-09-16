@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 # Taehyun Kim
 
 Software Engineering Student at York University
