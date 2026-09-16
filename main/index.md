@@ -4,10 +4,8 @@ Software Engineering Student at York University
 
 Software Developer | Cybersecurity
 
-[GitHub](https://github.com/YOUR_USERNAME)  
-[LinkedIn](YOUR_LINKEDIN_URL)  
-[Resume](assets/resume.pdf)
-
+[GitHub](https://github.com/k1m905)  
+[LinkedIn](https://www.linkedin.com/in/taehyun-kim-/)  
 ---
 
 ## About Me
@@ -18,6 +16,27 @@ applications.
 
 I am interested in software engineering, infrastructure,
 and cybersecurity.
+
+---
+
+## Projects
+
+### Productivity App
+** Java, JavaFX, JUnit, PostgreSQL, Git**
+---
+### Steam Game Discount Scraper
+**Python, Flask, HTML**
+---
+### Automatic Plant Watering System
+
+**Java · Arduino · Firmata4J**
+
+- Developed an automated plant watering system using Java and Arduino
+- Monitored soil moisture using a moisture sensor
+- Controlled a water pump based on soil moisture levels
+- Implemented a live graph to visualize soil moisture changes
+
+[View Project](YOUR_GITHUB_PROJECT_URL)
 
 ---
 
@@ -32,33 +51,6 @@ and cybersecurity.
 - Implemented LaunchDarkly A/B testing
 - Contributed to web and mobile application improvements
 - Worked with Git, pull requests, and ArgoCD
-
----
-
-## Projects
-
-### Automatic Plant Watering System
-
-**Java · Arduino · Firmata4J**
-
-- Developed an automated plant watering system using Java and Arduino
-- Monitored soil moisture using a moisture sensor
-- Controlled a water pump based on soil moisture levels
-- Implemented a live graph to visualize soil moisture changes
-
-[View Project](YOUR_GITHUB_PROJECT_URL)
-
----
-
-### YorkU Lab Reservation Platform
-
-**Java · JavaFX · Design Patterns**
-
-- Developed a laboratory reservation platform using JavaFX
-- Applied Command and Singleton design patterns
-- Implemented reservation management functionality
-
-[View Project](YOUR_GITHUB_PROJECT_URL)
 
 ---
 
