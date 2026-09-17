@@ -5,54 +5,15 @@ title: Home
 
 # Taehyun Kim
 
-Software Engineering Student at York University
-
-Software Developer | Cybersecurity
-
-[GitHub](https://github.com/k1m905)  
-[LinkedIn](https://www.linkedin.com/in/taehyun-kim-/)  
+Software Engineering Cybersecurity Stream Student at York University
 
 ---
 
 ## About Me
 
-I am a Software Engineering student at York University
-with professional experience developing web and mobile
-applications.
+My name is Taehyun Kim, and I am a fourth-year Software Engineering student at York University. I was named to the Dean’s List in my first year, an achievement that reflects my consistent academic excellence and strong commitment to learning.
 
-I am interested in software engineering, infrastructure,
-and cybersecurity.
-
----
-
-## Projects
-
-### Productivity App
-
-**Java · Arduino · Firmata4J**
-
-- asdasd
-- asdasd
-
----
-### Steam Game Discount Scraper
-
-**Python · Flask · HTML**
-
-- aasdasd
-- asdasd
-
----
-### Automatic Plant Watering System
-
-**Java · Arduino · Firmata4J**
-
-- Developed an automated plant watering system using Java and Arduino
-- Monitored soil moisture using a moisture sensor
-- Controlled a water pump based on soil moisture levels
-- Implemented a live graph to visualize soil moisture changes
-
-[View Project](YOUR_GITHUB_PROJECT_URL)
+I have a solid foundation in Java, Object-Oriented Programming, and the Software Development Life Cycle (SDLC). I am passionate about problem-solving and enjoy applying my technical skills to build efficient and innovative solutions. I am eager to contribute to challenging projects that allow me to grow as a developer while making a meaningful impact.
 
 ---
 
@@ -68,25 +29,51 @@ and cybersecurity.
 - Contributed to web and mobile application improvements
 - Worked with Git, pull requests, and ArgoCD
 
+[Experience](experience/index.md)
+
+---
+
+## Projects
+
+### Productivity App
+
+**Java · Arduino · Firmata4J**
+
+[View Project](YOUR_GITHUB_PROJECT_URL)
+
+---
+### Steam Game Discount Scraper
+
+**Python · Flask · HTML**
+
+[View Project](YOUR_GITHUB_PROJECT_URL)
+
+---
+### Automatic Plant Watering System
+
+**Java · Arduino · Firmata4J**
+
+[View Project](YOUR_GITHUB_PROJECT_URL)
+
 ---
 
 ## Skills
 
 ### Languages
 
-Java · Python · JavaScript · TypeScript · Go · R · Assembly · Verilog
+ Go · Java · JavaScript · TypeScript · Python · R · Assembly · Verilog
 
-### Frameworks & Technologies
+### Frameworks & Libraries
 
-React · React Native · Flask · GraphQL · REST · PostgreSQL
+React · React Native · Flask · JavaFX · Jest · JUnit
 
-### Tools
+### Backend & Technologies
 
-Git · GitHub · Docker · ArgoCD · Jest · JUnit
+ GraphQL · REST APIs · PostgreSQL · FPGA
 
-### Hardware
+### Developer Tools
 
-Arduino · FPGA · RISC-V
+Git · GitHub · Docker · ArgoCD · LaunchDarkly · Postman · VS Code · IntelliJ · Eclipse · Quartus · RISC-V
 
 ---
 
@@ -94,9 +81,9 @@ Arduino · FPGA · RISC-V
 
 ### York University
 
-**Bachelor of Engineering — Software Engineering**
+**Bachelor of Engineering — Software Engineering (Cybersecurity Stream)**
 
-Expected Graduation: 2028
+Expected Graduation: December 2027
 
 ---
 
