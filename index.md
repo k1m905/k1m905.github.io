@@ -29,31 +29,7 @@ I have a solid foundation in Java, Object-Oriented Programming, and the Software
 - Contributed to web and mobile application improvements
 - Worked with Git, pull requests, and ArgoCD
 
-[Experience](experience/index.md)
-
----
-
-## Projects
-
-### Productivity App
-
-**Java · Arduino · Firmata4J**
-
-[View Project](YOUR_GITHUB_PROJECT_URL)
-
----
-### Steam Game Discount Scraper
-
-**Python · Flask · HTML**
-
-[View Project](YOUR_GITHUB_PROJECT_URL)
-
----
-### Automatic Plant Watering System
-
-**Java · Arduino · Firmata4J**
-
-[View Project](YOUR_GITHUB_PROJECT_URL)
+[Experience](experience/)
 
 ---
 
