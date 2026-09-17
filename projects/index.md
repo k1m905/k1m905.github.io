@@ -63,6 +63,6 @@ the risk of accidental collisions becomes an important concern. The project aims
 to provide satellite operators with accessible information to help them evaluate
 potential collisions and take appropriate corrective action.
 
-[Upcoming](upcoming/)
+[Modernization of the Collision Avoidance Detection System](upcoming/)
 
 ---
