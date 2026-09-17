@@ -21,15 +21,9 @@ I have a solid foundation in Java, Object-Oriented Programming, and the Software
 
 ### Software Developer Co-op — WonderFi
 
-**Toronto, ON | Jan 2025 – Dec 2025**
+Toronto, ON | Jan 2025 – Dec 2025
 
-- Developed backend and frontend functionality for cryptocurrency trading applications
-- Built GraphQL and REST endpoints to retrieve and display application data
-- Implemented LaunchDarkly A/B testing
-- Contributed to web and mobile application improvements
-- Worked with Git, pull requests, and ArgoCD
-
-[Experience](experience/)
+[Experience](experiences/)
 
 ---
 
