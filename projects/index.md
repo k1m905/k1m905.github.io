@@ -17,7 +17,8 @@ A productivity application developed as a 6-person team project to help users
 organize their tasks and improve productivity through time management and
 progress tracking.
 
-[View Project →](productivity-app/)
+[Productivity App](productivity-app/)
+
 ---
 
 ## Steam Game Discount Scraper
@@ -29,7 +30,8 @@ progress tracking.
 A web application that collects Steam game information and identifies games
 that are currently available at a discount.
 
-[View Project →](steam-scraper/)
+[Steam Game Discount Scraper](steam-scraper/)
+
 ---
 
 ## Automatic Plant Watering Machine
@@ -41,12 +43,11 @@ that are currently available at a discount.
 An automated plant-watering system that monitors soil moisture and
 automatically activates a water pump when the soil becomes too dry.
 
-[View Project →](plant-watering/)
+[Automatic Plant Watering Machine](plant-watering/)
+
 ---
 
 # Upcoming
-
----
 
 ## Engineering Capstone Project
 
@@ -62,6 +63,6 @@ the risk of accidental collisions becomes an important concern. The project aims
 to provide satellite operators with accessible information to help them evaluate
 potential collisions and take appropriate corrective action.
 
-[View Project →](upcoming/)
+[Upcoming](upcoming/)
 
 ---
