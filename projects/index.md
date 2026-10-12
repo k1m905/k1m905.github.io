@@ -47,7 +47,7 @@ automatically activates a water pump when the soil becomes too dry.
 
 ---
 
-# Upcoming
+# In Progress
 
 ## Engineering Capstone Project
 
