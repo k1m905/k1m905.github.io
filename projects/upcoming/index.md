@@ -10,10 +10,10 @@ title: project
 ## Engineering Capstone Project
 
 ### Modernization of the Collision Avoidance Detection System
-Status: In Progress | September 2026 – April 2027
-Project Sponsor: Canadian Space Agency (CSA)
-Focus Areas: Cybersecurity · Full-Stack Development · Data Visualization · Software Engineering
-Project Status: The project is currently in the research, requirements gathering, and system planning phase. Security requirements, system architecture, technology choices, and implementation priorities will be refined through discussions with the Canadian Space Agency and the faculty supervisor.
+**Status:** In Progress | September 2026 – April 2027
+**Project Sponsor:** Canadian Space Agency (CSA)
+**Focus Areas:** Cybersecurity · Full-Stack Development · Data Visualization · Software Engineering
+**Project Status:** The project is currently in the research, requirements gathering, and system planning phase. Security requirements, system architecture, technology choices, and implementation priorities will be refined through discussions with the Canadian Space Agency and the faculty supervisor.
 
 ### Overview
 
@@ -88,13 +88,13 @@ Provide tools for examining collision events, comparing relevant data, and explo
 
 ### What I Expect to Learn
 
-- Secure Software Development: Applying security-by-design principles, secure coding practices, and vulnerability testing.
-- Cybersecurity Engineering: Exploring authentication, authorization, data integrity, and secure API design.
-- Full-Stack Development: Designing and integrating frontend, backend, and database components.
-- Data Engineering: Processing, validating, and managing complex collision-related datasets.
-- Data Visualization: Building interactive dashboards for technical and operational information.
-- DevSecOps: Incorporating automated security checks and testing into development workflows.
-- Software Architecture: Designing maintainable, scalable, and reliable software systems.
-- Engineering Collaboration: Working with a multidisciplinary team and translating stakeholder requirements into technical solutions.
+- **Secure Software Development:** Applying security-by-design principles, secure coding practices, and vulnerability testing.
+- **Cybersecurity Engineering:** Exploring authentication, authorization, data integrity, and secure API design.
+- **Full-Stack Development:** Designing and integrating frontend, backend, and database components.
+- **Data Engineering:** Processing, validating, and managing complex collision-related datasets.
+- **Data Visualization:** Building interactive dashboards for technical and operational information.
+- **DevSecOps:** Incorporating automated security checks and testing into development workflows.
+- **Software Architecture:** Designing maintainable, scalable, and reliable software systems.
+- **Engineering Collaboration:** Working with a multidisciplinary team and translating stakeholder requirements into technical solutions.
 
 ---
